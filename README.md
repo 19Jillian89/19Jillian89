@@ -17,6 +17,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ilaria.nassi@yahoo.it)
 
 
-<img src="https://www.behance.net/gallery/107019725/Halloween-Chill" width="400"/>
+<img src="https://github.com/19Jillian89/19Jillian89/blob/main/Let a mesmerizing lofi aesthetic gif transport you to a world of neon lights and nostalgia, perfectly complementing your vintage style_.jpg" width="400"/>
+
 
 ![C](https://img.shields.io/badge/Language-C-blue) ![42](https://img.shields.io/badge/42-Student-black)
