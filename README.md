@@ -17,7 +17,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilaria.nassi@yahoo.it)
 
 
-<img src="https://github.com/19Jillian89/19Jillian89/blob/main/Let a mesmerizing lofi aesthetic gif transport you to a world of neon lights and nostalgia, perfectly complementing your vintage style_.jpg" width="400"/>
+<img src="https://github.com/19Jillian89/19Jillian89/blob/main/Let a mesmerizing lofi aesthetic gif transport you to a world of neon lights and nostalgia, perfectly complementing your vintage style_.jpg" width="500"/> [![ilnassi's 42 stats](https://badge.mediaplus.ma/starryblue/ilnassi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 ![C](https://img.shields.io/badge/Language-C-blue) ![42](https://img.shields.io/badge/42-Student-black)
