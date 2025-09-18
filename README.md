@@ -12,7 +12,7 @@
 
 ---
 
-## 📫 Contatti
+## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ilaria-nassi-617900254)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ilaria.nassi@yahoo.it)
 
