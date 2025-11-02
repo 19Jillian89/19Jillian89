@@ -13,6 +13,14 @@
 
 ---
 
+## 🧩 Currently Working On
+
+- **Philosophers** — 42 project on the Dining Philosophers problem 🍽️  
+  
+- **Minishell** — Trying to survive building a UNIX shell 🐚 from scratch (pipes, forks, signals… send help 😅)
+
+---
+
 ## ✨ Skills ✨
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,vscode,git,github,linux,ubuntu" alt="My Skills" />
