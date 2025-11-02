@@ -1,6 +1,7 @@
 # 👋 Hi there!! 🌹 I'm Ilaria Nassi 🌹
 
-👩🏻‍💻 Student @ 42 Roma Luiss — since **December 9, 2024**  
+👩🏻‍💻 Student @ 42 Roma Luiss — since **December 9, 2024**  ![42](https://img.shields.io/badge/42-Student-black)
+
 💻 Aspiring **Junior Software Developer** ✨  
 
 ---
@@ -10,9 +11,13 @@
 - 🎮 Passionate about coding, problem-solving, and creative projects  
 - 🚀 Excited to grow as a developer and share my journey here on GitHub  
 
+---
 
-[![ilnassi's 42 stats](https://badge.mediaplus.ma/starryblue/ilnassi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
- ![42](https://img.shields.io/badge/42-Student-black)
+## ✨ Skills ✨
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,vscode,git,github,linux,ubuntu" alt="My Skills" />
+</p>
+
  
 ---
 
