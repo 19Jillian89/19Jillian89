@@ -17,7 +17,7 @@
 
 - **Philosophers** — 42 project on the Dining Philosophers problem 🍽️  
   
-- **Minishell** — Trying to survive building a UNIX shell 🐚 from scratch (pipes, forks, signals… send help 😅)
+- **Exam Rank 3** — Send help 😅
 
 ---
 
