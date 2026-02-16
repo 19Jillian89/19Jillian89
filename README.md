@@ -15,9 +15,7 @@
 
 ## 🧩 Currently Working On
 
-- **Philosophers** — 42 project on the Dining Philosophers problem 🍽️  
-  
-- **Exam Rank 3** — Send help 😅
+- **Philosophers** — 42 project on the Dining Philosophers problem 🍽️
 
 ---
 
