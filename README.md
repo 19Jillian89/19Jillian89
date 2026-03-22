@@ -15,7 +15,7 @@
 
 ## 🧩 Currently Working On
 
-- **Philosophers** — 42 project on the Dining Philosophers problem 🍽️
+- **cub3d** — 42 project - My first RayCaster with miniLibX
 
 ---
 
