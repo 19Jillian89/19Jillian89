@@ -15,7 +15,9 @@
 
 ## 🧩 Currently Working On
 
-- **cub3d** — 42 project - My first RayCaster with miniLibX
+- **CPP0** — Introduction to Object-Oriented Programming in C++, covering classes, member functions, constructors, and basic C++ syntax.
+- **NetPractice** — Networking fundamentals project focused on IP addressing, subnetting, routing, and understanding how small networks operate.
+- **Exam Rank 04**
 
 ---
 
