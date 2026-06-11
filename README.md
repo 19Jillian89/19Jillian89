@@ -22,6 +22,9 @@
 
 - **NetPractice** — Networking fundamentals project focused on IP addressing, subnetting, routing, and understanding how small networks operate.
 
+- 🗄️ **SQL BootCamp** — Currently taking an intensive course focused on relational database management, query optimization, and data manipulation.
+
+
 ---
 
 ## ✨ Skills ✨
