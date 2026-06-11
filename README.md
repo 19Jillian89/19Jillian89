@@ -26,7 +26,7 @@
 
 ## ✨ Skills ✨
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,vscode,git,github,linux,ubuntu" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,vscode,git,github,linux,ubuntu" alt="My Skills" />
 </p>
 
  
