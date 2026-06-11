@@ -15,9 +15,12 @@
 
 ## 🧩 Currently Working On
 
-- **CPP0** — Introduction to Object-Oriented Programming in C++, covering classes, member functions, constructors, and basic C++ syntax.
+- **CPP Module 01** — Memory Allocation & Pointers
+- **CPP Module 02** — Adonism & Polymorphism 
+- **CPP Module 03** — Inheritance
+- **CPP Module 04** — Polymorphism & Subtyping
+
 - **NetPractice** — Networking fundamentals project focused on IP addressing, subnetting, routing, and understanding how small networks operate.
-- **Exam Rank 04**
 
 ---
 
