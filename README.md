@@ -15,7 +15,6 @@
 
 ## 🧩 Currently Working On
 
-- **CPP Module 02** — Adonism & Polymorphism 
 - **CPP Module 03** — Inheritance
 - **CPP Module 04** — Polymorphism & Subtyping
 
