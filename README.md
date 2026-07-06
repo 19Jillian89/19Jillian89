@@ -21,6 +21,7 @@
 - **NetPractice** — Networking fundamentals project focused on IP addressing, subnetting, routing, and understanding how small networks operate.
 
 - 🗄️ **SQL BootCamp** — Currently taking an intensive course focused on relational database management, query optimization, and data manipulation.
+- #️⃣ **C#** — Studying C# through an Academy program at **BC Soft School**, covering OOP fundamentals, console I/O, and preparing for game development with Unity.​
 
 
 ---
